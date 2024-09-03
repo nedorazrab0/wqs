@@ -9,4 +9,4 @@ start "C:\Users\govno\Downloads\Pantum P2200-P2500-P2600-S2000 Series Windows Dr
 pause
 
 Stop-Process -Force -Name msedge
-rm -r -Forece "C:\Program Files\Microsoft"
+rm -r -Force "C:\Program Files\Microsoft"
