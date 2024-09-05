@@ -5,4 +5,4 @@ cscript slmgr.vbs /ato
 
 taskkill /F /IM msedge.exe /T
 rmdir /Q /S "%PROGRAMFILES%\Microsoft"
-shutdown /s
+shutdown /s /t 0
